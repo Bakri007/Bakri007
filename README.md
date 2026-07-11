@@ -32,11 +32,6 @@
   </tbody>
 </table>
 
-<h3>GitHub Stats</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Bakri007&show_icons=true&theme=dark" alt="Bakri007's GitHub stats" />
-</p>
-
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/Bakri007" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
