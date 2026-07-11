@@ -1,13 +1,9 @@
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30"/> Hey! Nice to see you.</h1>
 
 <p align="center">
-  <a href="https://github.com/Bakri007">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A8E8&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Mohammed+Atef+(Bakri)%F0%9F%91%8B;Full+Stack+MEAN+Developer;Computer+Science+Student;Angular+%7C+Node.js+%7C+Express+%7C+MongoDB" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bakri007&label=Profile%20Views&color=00A8E8&style=flat-square" alt="Profile views" />
+  <b>Hi, I'm Mohammed Atef (Bakri) 👋</b><br/>
+  Full Stack MEAN Developer &nbsp;|&nbsp; Computer Science Student<br/>
+  Angular · Node.js · Express · MongoDB
 </p>
 
 <h3>Things I code with</h3>
