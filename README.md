@@ -16,27 +16,18 @@
 <table>
   <thead align="center">
     <tr>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
+      <td><b>🎁 Project</b></td>
+      <td><b>📝 Description</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Bakri007/CarsProject-FrontEnd"><b>CarsProject - FrontEnd</b></a><br/><i>Responsive frontend for a car spare parts & accessories e-commerce platform, built with Angular.</i></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Bakri007/CarsProject-FrontEnd?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Bakri007/CarsProject-FrontEnd?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Bakri007/CarsProject-FrontEnd?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Bakri007/CarsProject-FrontEnd?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/Bakri007/CarsProject-FrontEnd"><b>CarsProject - FrontEnd</b></a></td>
+      <td>Responsive frontend for a car spare parts & accessories e-commerce platform, built with Angular.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Bakri007/CarsProject-Backend"><b>CarsProject - Backend</b></a><br/><i>Backend system for an e-commerce platform selling car spare parts & accessories, built with Node.js, Express and MongoDB.</i></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Bakri007/CarsProject-Backend?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Bakri007/CarsProject-Backend?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Bakri007/CarsProject-Backend?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Bakri007/CarsProject-Backend?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/Bakri007/CarsProject-Backend"><b>CarsProject - Backend</b></a></td>
+      <td>Backend system for an e-commerce platform selling car spare parts & accessories, built with Node.js, Express and MongoDB.</td>
     </tr>
   </tbody>
 </table>
@@ -51,7 +42,3 @@
   <a href="https://github.com/Bakri007" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mohammed-atef-656416355/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
-------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 3 March, 07:01 CET</p>
-<p align="center"><img src="https://github.com/Bakri007/Bakri007/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/Bakri007/Bakri007?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/Bakri007/Bakri007?style=flat-square&labelColor=343b41"/></p>
