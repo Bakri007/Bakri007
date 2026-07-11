@@ -1,15 +1,18 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Mohammed Atef (a.k.a. <b>Bakri</b>), a Full Stack Developer specialized in the <b>MEAN Stack</b>, studying <b>Computer Science</b>. </p>
+<p align="center">
+  <a href="https://github.com/Bakri007">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A8E8&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Mohammed+Atef+(Bakri)%F0%9F%91%8B;Full+Stack+MEAN+Developer;Computer+Science+Student;Angular+%7C+Node.js+%7C+Express+%7C+MongoDB" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bakri007&label=Profile%20Views&color=00A8E8&style=flat-square" alt="Profile views" />
+</p>
 
 <h3>Things I code with</h3>
 <p>
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,nodejs,express,mongodb,git" alt="Tech stack icons" />
 </p>
 
 <h3>Open source projects</h3>
@@ -31,6 +34,11 @@
     </tr>
   </tbody>
 </table>
+
+<h3>GitHub Streak</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bakri007&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
 
 <h3>Where to find me</h3>
 <p>
