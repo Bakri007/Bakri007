@@ -8,7 +8,7 @@
 
 <h3>Things I code with</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,nodejs,express,mongodb,git" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,angular,ts,nodejs,express,mongodb,git,cpp" alt="Tech stack icons" />
 </p>
 
 <h3>Open source projects</h3>
