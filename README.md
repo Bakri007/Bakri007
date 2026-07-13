@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Bakri007">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A8E8&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=140&lines=%F0%9F%91%8B+Hi%2C+I'm+Mohammed+Atef+(Bakri);Full+Stack+Developer;Computer+Science+Student;Angular+%C2%B7+Node.js+%C2%B7+Express+%C2%B7+MongoDB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A8E8&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=140&lines=%F0%9F%91%8B+Hi%2C+I'm+Mohammed+Atef+(Bakri);Computer+Science+Student;Full+Stack+Developer;Angular+%C2%B7+Node.js+%C2%B7+Express+%C2%B7+MongoDB" alt="Typing SVG" />
   </a>
 </p>
 
